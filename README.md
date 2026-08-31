@@ -54,7 +54,6 @@ public class Script : MonoBehaviour
 ### Output:
 <img width="943" height="483" alt="image" src="https://github.com/user-attachments/assets/974fc80e-3933-41d4-8584-2414b3fc9537" />
 
-
 <img width="948" height="472" alt="image" src="https://github.com/user-attachments/assets/2a36e44c-17d7-4489-8b51-6ad3a4493200" />
 
 
